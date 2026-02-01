@@ -1,4 +1,5 @@
-Crash-proj: First-Person Mobile Runner 🏃‍♂️💎
+Crash: First-Person Mobile Runner 🏃‍♂️💎
+
 Crash is a fast-paced, 3D first-person obstacle course designed specifically for mobile platforms. Players must navigate a treacherous environment, collect valuables, and neutralize threats while maintaining momentum.
 
 🎮 Gameplay Overview
